@@ -10,7 +10,7 @@ function NavBar(){
   const dispatch = useDispatch();	
   const fetcher=async(city)=>{
     try {
-      const response = await fetch('http://api.weatherstack.com/current?access_key=8bd8e08934010010ce87ac7afe761d71&query='+city)
+      const response = await fetch(`http://api.weatherstack.com/current?access_key=8bd8e08934010010ce87ac7afe761d71&query=${city}`)
       const data = await response.json()
       console.log(data);
       dispatch(getDataSuccess(data))
