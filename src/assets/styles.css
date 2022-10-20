@@ -1,0 +1,55 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto",sans-serif,Georgia, 'Times New Roman', Times, serif;
+    color: white;
+  }
+  .App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  main{
+    height: 20vh;
+    width: 80vh;
+    background-color: rgba(1, 2, 0,0.4);
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    margin: 5vh;
+    border-radius:2vh; 
+    float: left;  
+  }
+  
+  main p{
+    text-align: center;
+    padding-top: 10px;
+    font-size: 10vh;
+    
+  }
+.background{
+  height: 100vh;
+  width: inherit;
+  background: url(./bgImage.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+aside{
+  
+  float:right;
+  height:92vh;
+  width: 50vh;
+  background-color: rgba(0, 0, 0, 0.15);
+  backdrop-filter: blur(9px);
+  -webkit-backdrop-filter: blur(9px);
+  padding: 5vh;
+  
+}
+nav{
+  box-shadow: 2px 5px 3px;
+}
+
+ 
