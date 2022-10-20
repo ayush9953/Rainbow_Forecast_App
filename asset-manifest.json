@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Rainbow_Forecast_App/static/css/main.d6e23995.css",
+    "main.js": "/Rainbow_Forecast_App/static/js/main.dcee34d0.js",
+    "static/js/787.4806a7f5.chunk.js": "/Rainbow_Forecast_App/static/js/787.4806a7f5.chunk.js",
+    "static/media/bgImage.jpg": "/Rainbow_Forecast_App/static/media/bgImage.0f83aa93ce04ed0c132a.jpg",
+    "index.html": "/Rainbow_Forecast_App/index.html",
+    "main.d6e23995.css.map": "/Rainbow_Forecast_App/static/css/main.d6e23995.css.map",
+    "main.dcee34d0.js.map": "/Rainbow_Forecast_App/static/js/main.dcee34d0.js.map",
+    "787.4806a7f5.chunk.js.map": "/Rainbow_Forecast_App/static/js/787.4806a7f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6e23995.css",
+    "static/js/main.dcee34d0.js"
+  ]
+}
