@@ -2,7 +2,7 @@
   "name": "weatherify",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ayush9953.github.io/Rainbow_Forecast_App",
+  "homepage": "https://63515d53f39f4d433eab8f9e--keen-sprite-0a3888.netlify.app",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.6",
     "@testing-library/jest-dom": "^5.16.5",
